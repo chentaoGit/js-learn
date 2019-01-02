@@ -31,6 +31,9 @@ luac.out
 *.so.*
 *.dylib
 
+# mac unuse
+*.DS_Store
+
 # Executables
 *.exe
 *.out
